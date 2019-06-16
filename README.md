@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 16th June，2019
 
 Hi Humans!
